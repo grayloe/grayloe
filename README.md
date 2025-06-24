@@ -2,7 +2,7 @@
 - 👀 I am interested in spatial science and cultural history 
 - 🌱 I script in Python, use GISs to support biodivsity and conservation planning and policy
 - 💞️ I am looking to collaborate on projects
-- 📫 I amd working for the Dept. Biodiversity, Conservation and Attractions (DBCA) in Western Australia. 
+- 📫 I work for the Dept. Biodiversity, Conservation and Attractions (DBCA) in Western Australia. 
 
 <!---
 grayloe/grayloe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
