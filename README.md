@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @grayloe
 - 👀 I am interested in spatial science and cultural history 
-- 🌱 I script in Python, use GISs to support biodivsity and conservation planning and policy
-- 💞️ I am looking to collaborate on projects
+- 🌱 I script in Python, use GISs to support biodiversity and conservation planning and policy
 - 📫 I work for the Dept. Biodiversity, Conservation and Attractions (DBCA) in Western Australia. 
 
 <!---
